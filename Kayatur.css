@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+    
+}
+ul{
+    list-style: inside;
+}
+h1, h2, h3{
+    color: purple;
+}
+a{
+    font-size: 18px;
+}
+h1{font-size: 30px;}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+ul{
+    color:darkred;
+    font-size: 25px;
+}
